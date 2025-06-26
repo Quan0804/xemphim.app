@@ -1,0 +1,63 @@
+name: xemphim
+description: "A new Flutter project"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  youtube_player_flutter: ^9.0.0
+  shared_preferences: ^2.2.2
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/iconapp.jpg"
+  adaptive_icon_background: "#000000"
+  adaptive_icon_foreground: "assets/iconapp.jpg"
+  android_gravity: center
+  remove_alpha_ios: true
+  background_color_ios: "#000000"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/movie1.jpg
+    - assets/movie2.jpg
+    - assets/movie3.jpg
+    - assets/movie4.jpg
+    - assets/movie5.jpg
+    - assets/movie6.jpg
+    - assets/banner1.jpg
+    - assets/banner2.jpg
+    - assets/banner3.jpg
+    - assets/banner4.jpg
+    - assets/action1.jpg
+    - assets/action2.jpg
+    - assets/action3.jpg
+    - assets/action4.jpg
+    - assets/action5.jpg
+    - assets/phimhay1.jpg
+    - assets/phimhay2.jpg
+    - assets/phimhay3.jpg
+    - assets/phimhay4.jpg
+    - assets/phimhay5.jpg
+    - assets/series1.jpg
+    - assets/series2.jpg
+    - assets/series3.jpg
+    - assets/series4.jpg
+    - assets/series5.jpg
+    - assets/iconapp.jpg
