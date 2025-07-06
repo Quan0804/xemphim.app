@@ -90,8 +90,8 @@ flutter run
 ---
 
 ## 📩 Liên hệ
-- Tác giả: **[Tên của bạn]**
-- Email: example@gmail.com
+- Tác giả: **[Vũ Quân]**
+- Email: vuquan0804@gmail.com
 
 ---
 
